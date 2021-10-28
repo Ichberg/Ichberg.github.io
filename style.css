@@ -5,9 +5,8 @@ body {
 }
 
 .img1 {
-  width: 500px;
-  position: inherit;
-}
+  width: 80%;
+    }
 
 .name {
   width: 250px;
@@ -58,7 +57,6 @@ body {
   width: 100%;
   text-align: justify;
   padding-left: 250px;
-  padding-right: 250px;
   font-size: 18px;
   color: white;
 }
